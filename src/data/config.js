@@ -1,9 +1,9 @@
 /**
  * Personal & Contact Configuration
- * Synchronized with authentic Curriculum Vitae of Fany Achmad Mustofah, S.Kom
+ * Synchronized with authentic Curriculum Vitae of Fany Achmad Mustofah
  */
 export const PERSONAL_CONFIG = {
-  name: "Fany Achmad Mustofah, S.Kom",
+  name: "Fany Achmad Mustofah",
   brandName: "Fany Achmad",
   roleHeadline: "Fullstack Developer, Odoo ERP Engineer & Mobile Flutter Specialist",
   tagline: "Building robust web platforms, enterprise Odoo ERP solutions & fluid Flutter apps.",
@@ -16,7 +16,7 @@ export const PERSONAL_CONFIG = {
   whatsappDisplay: "+62 813-3032-0731",
   address: "Raya Sambikerep No.18, Sambikerep, Surabaya, Jawa Timur",
   location: "Surabaya, Indonesia · GMT+7 (WIB)",
-  education: "S.Kom (Informatics Engineering) — Institut Teknologi Adhi Tama Surabaya (ITATS)",
+  education: "Teknik Informatika — Institut Teknologi Adhi Tama Surabaya (ITATS)",
   availability: "Available for work",
   statusInquiries: "Accepting inquiries for projects & enterprise contracts",
 

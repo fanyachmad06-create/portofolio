@@ -43,7 +43,7 @@ export function Journey() {
   const education = [
     {
       period: "2014 — 2020",
-      degree: "S.Kom (Sarjana Komputer) — Teknik Informatika",
+      degree: "Sarjana Teknik Informatika",
       institution: "Institut Teknologi Adhi Tama Surabaya (ITATS)",
       detail: "Fokus rekayasa perangkat lunak, sistem basis data, dan arsitektur komputasi.",
     },
