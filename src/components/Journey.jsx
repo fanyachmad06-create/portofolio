@@ -79,7 +79,7 @@ export function Journey() {
                 Rekam Jejak Karir &amp; Pendidikan
               </h2>
               <p className="font-body-sm text-body-sm text-secondary leading-relaxed">
-                Pengalaman profesional lebih dari 6 tahun membangun ekosistem Odoo ERP, aplikasi mobile Flutter, dan sistem web enterprise di berbagai perusahaan teknologi dan korporasi Indonesia.
+                Pengalaman profesional membangun ekosistem Odoo ERP, aplikasi mobile Flutter, dan sistem web enterprise di berbagai perusahaan teknologi dan korporasi Indonesia.
               </p>
             </div>
 

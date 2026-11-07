@@ -14,7 +14,7 @@
 
 ## 📌 Ringkasan Profil (*About Me*)
 
-Halo! Saya **Fany Achmad Mustofah** — Software Engineer berbasis di Surabaya dengan pengalaman profesional lebih dari 6 tahun dalam rekayasa perangkat lunak enterprise, kustomisasi ekosistem **Odoo ERP (Python)**, pengembangan aplikasi mobile lintas platform (**Flutter**), serta pembangunan web aplikasi berskala tinggi (**Laravel, React, Vue, Tailwind CSS**).
+Halo! Saya **Fany Achmad Mustofah** — Software Engineer berbasis di Surabaya dengan spesialisasi rekayasa perangkat lunak enterprise, kustomisasi ekosistem **Odoo ERP (Python)**, pengembangan aplikasi mobile lintas platform (**Flutter**), serta pembangunan web aplikasi berskala tinggi (**Laravel, React, Vue, Tailwind CSS**).
 
 Lulusan Teknik Informatika dari **Institut Teknologi Adhi Tama Surabaya (ITATS)** dengan rekam jejak menangani sistem operasional manufaktur, perbankan, portal geospasial tambang, hingga platform ticketing nasional.
 

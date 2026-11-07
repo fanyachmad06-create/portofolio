@@ -7,7 +7,7 @@ export const PERSONAL_CONFIG = {
   brandName: "Fany Achmad",
   roleHeadline: "Fullstack Developer, Odoo ERP Engineer & Mobile Flutter Specialist",
   tagline: "Building robust web platforms, enterprise Odoo ERP solutions & fluid Flutter apps.",
-  bio: "Halo. Saya Fany Achmad Mustofah — Fullstack Developer dan Mobile Engineer berbasis di Surabaya dengan spesialisasi Odoo ERP (Python), aplikasi mobile lintas platform (Flutter), serta web enterprise (Laravel, React, Vue, Tailwind CSS). Berpengalaman lebih dari 6 tahun menangani arsitektur sistem korporat, otomasi proses bisnis, dan deployment server Linux.",
+  bio: "Halo. Saya Fany Achmad Mustofah — Fullstack Developer dan Mobile Engineer berbasis di Surabaya dengan spesialisasi Odoo ERP (Python), aplikasi mobile lintas platform (Flutter), serta web enterprise (Laravel, React, Vue, Tailwind CSS). Berpengalaman menangani arsitektur sistem korporat, otomasi proses bisnis, dan deployment server Linux.",
 
   // Contact details directly from CV
   email: "fanyarsas6199@gmail.com",
@@ -27,7 +27,7 @@ export const PERSONAL_CONFIG = {
 
   // Engineering Metrics
   metrics: [
-    { number: "6+", label: "Tahun Pengalaman Rekayasa Sistem & ERP" },
+    { number: "6", label: "Studi Kasus Proyek Unggulan Produksi" },
     { number: "25+", label: "Modul ERP, Aplikasi Mobile & Web Produksi" },
     { number: "100%", label: "Uptime & Komitmen Delivery Kode Handal" },
   ],
