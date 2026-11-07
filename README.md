@@ -1,4 +1,4 @@
-# Fany Achmad Mustofah, S.Kom — Engineering Portfolio
+# Fany Achmad Mustofah — Engineering Portfolio
 
 > **Full-Stack Software Engineer · Odoo ERP Specialist · Cross-Platform Mobile Flutter Developer**  
 > *Surabaya, Jawa Timur, Indonesia · GMT+7 (WIB)*
