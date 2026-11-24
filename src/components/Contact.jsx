@@ -92,7 +92,7 @@ export function Contact() {
 
               <div className="pt-4 border-t border-outline-variant/30 text-secondary text-body-sm">
                 <p className="font-body-sm text-body-sm">
-                  {PERSONAL_CONFIG.address}. Terbuka untuk kontrak remote, hybrid, maupun konsultasi implementasi ERP korporat di seluruh Indonesia.
+                  Berbasis di Surabaya, Indonesia. Terbuka untuk kontrak kerja remote, hybrid, maupun konsultasi implementasi software di seluruh Indonesia.
                 </p>
               </div>
             </div>
