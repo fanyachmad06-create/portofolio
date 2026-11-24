@@ -21,7 +21,6 @@ Lulusan Teknik Informatika dari **Institut Teknologi Adhi Tama Surabaya (ITATS)*
 * **GitHub**: [@fanyachmad06-create](https://github.com/fanyachmad06-create)
 * **GitLab**: [@fanyachmad](https://gitlab.com/fanyachmad)
 * **LinkedIn**: [linkedin.com/in/fany-achmad-mustofah](https://www.linkedin.com/in/fany-achmad-mustofah/)
-* **Email**: [fanyarsas6199@gmail.com](mailto:fanyarsas6199@gmail.com)
 
 ---
 

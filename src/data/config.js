@@ -10,7 +10,6 @@ export const PERSONAL_CONFIG = {
   bio: "Halo. Saya Fany Achmad Mustofah — Fullstack Developer dan Mobile Engineer berbasis di Surabaya dengan spesialisasi Odoo ERP (Python), aplikasi mobile lintas platform (Flutter), serta web enterprise (Laravel, React, Vue, Tailwind CSS). Berpengalaman menangani arsitektur sistem korporat, otomasi proses bisnis, dan deployment server Linux.",
 
   // Contact details directly from CV
-  email: "fanyarsas6199@gmail.com",
   whatsappNumber: "6281330320731",
   address: "Raya Sambikerep No.18, Sambikerep, Surabaya, Jawa Timur",
   location: "Surabaya, Indonesia · GMT+7 (WIB)",

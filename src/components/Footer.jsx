@@ -72,12 +72,6 @@ export function Footer() {
           >
             LinkedIn
           </a>
-          <a
-            className="font-body-sm text-body-sm text-secondary hover:text-primary transition-colors duration-200"
-            href={`mailto:${PERSONAL_CONFIG.email}`}
-          >
-            Email
-          </a>
         </div>
 
         {/* Back to Top Micro-trigger */}

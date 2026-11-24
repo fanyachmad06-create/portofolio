@@ -1,17 +1,7 @@
-import React, { useState } from "react";
+import React from "react";
 import { PERSONAL_CONFIG, getWhatsAppUrl } from "../data/config";
 
 export function Contact() {
-  const [copied, setCopied] = useState(false);
-
-  const handleCopyEmail = () => {
-    navigator.clipboard.writeText(PERSONAL_CONFIG.email);
-    setCopied(true);
-    setTimeout(() => {
-      setCopied(false);
-    }, 2500);
-  };
-
   return (
     <section className="py-24" id="contact">
       <div className="max-w-7xl mx-auto px-6 md:px-margin">
@@ -32,29 +22,26 @@ export function Contact() {
                 Whether you are planning an enterprise Odoo ERP migration, launching a cross-platform Flutter application, or building a scalable modern web product, I am available to consult or lead engineering.
               </p>
 
-              {/* Direct Email Copy & Call CTAs */}
+              {/* Direct Call CTAs */}
               <div className="pt-2 flex flex-wrap items-center gap-4">
-                <button
-                  type="button"
-                  className="inline-flex items-center gap-3 px-5 py-3 rounded-lg bg-primary-container text-surface hover:bg-neutral-800 transition-colors duration-200 font-mono text-body-sm cursor-pointer"
-                  onClick={handleCopyEmail}
-                  title="Klik untuk menyalin email"
-                >
-                  <span className="material-symbols-outlined text-[18px]">mail</span>
-                  <span>{copied ? "Copied to clipboard!" : PERSONAL_CONFIG.email}</span>
-                  <span className="material-symbols-outlined text-[16px] text-outline-variant">
-                    {copied ? "check" : "content_copy"}
-                  </span>
-                </button>
-
                 <a
-                  className="inline-flex items-center gap-2 px-5 py-3 rounded-lg border border-outline-variant hover:border-primary text-primary transition-colors duration-200 font-label-md text-label-md"
+                  className="inline-flex items-center gap-2 px-6 py-3.5 rounded-lg bg-primary-container text-surface hover:bg-neutral-800 transition-colors duration-200 font-label-md text-label-md cursor-pointer"
                   href={getWhatsAppUrl("Halo Mas Fany, saya melihat portofolio Anda dan tertarik untuk diskusi proyek software / ERP / mobile.")}
                   target="_blank"
                   rel="noopener noreferrer"
                 >
                   <span className="material-symbols-outlined text-[18px]">chat</span>
                   <span>Chat WhatsApp</span>
+                </a>
+
+                <a
+                  className="inline-flex items-center gap-2 px-5 py-3.5 rounded-lg border border-outline-variant hover:border-primary text-primary transition-colors duration-200 font-label-md text-label-md"
+                  href={PERSONAL_CONFIG.linkedinUrl}
+                  target="_blank"
+                  rel="noopener noreferrer"
+                >
+                  <span>Hubungi via LinkedIn</span>
+                  <span className="material-symbols-outlined text-[16px]">north_east</span>
                 </a>
               </div>
             </div>
