@@ -11,9 +11,7 @@ export const PERSONAL_CONFIG = {
 
   // Contact details directly from CV
   email: "fanyarsas6199@gmail.com",
-  phone: "+62 81330320731",
   whatsappNumber: "6281330320731",
-  whatsappDisplay: "+62 813-3032-0731",
   address: "Raya Sambikerep No.18, Sambikerep, Surabaya, Jawa Timur",
   location: "Surabaya, Indonesia · GMT+7 (WIB)",
   education: "Teknik Informatika — Institut Teknologi Adhi Tama Surabaya (ITATS)",

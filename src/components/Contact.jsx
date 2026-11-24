@@ -54,7 +54,7 @@ export function Contact() {
                   rel="noopener noreferrer"
                 >
                   <span className="material-symbols-outlined text-[18px]">chat</span>
-                  <span>WhatsApp: {PERSONAL_CONFIG.whatsappDisplay}</span>
+                  <span>Chat WhatsApp</span>
                 </a>
               </div>
             </div>
@@ -66,16 +66,6 @@ export function Contact() {
               </span>
 
               <div className="space-y-3 font-body-sm text-body-sm">
-                <a
-                  className="flex items-center justify-between text-secondary hover:text-primary transition-colors py-1 group"
-                  href={`tel:${PERSONAL_CONFIG.phone}`}
-                >
-                  <span>Telepon / {PERSONAL_CONFIG.phone}</span>
-                  <span className="material-symbols-outlined text-[16px] group-hover:translate-x-0.5 transition-transform">
-                    call
-                  </span>
-                </a>
-
                 <a
                   className="flex items-center justify-between text-secondary hover:text-primary transition-colors py-1 group"
                   href={PERSONAL_CONFIG.linkedinUrl}
